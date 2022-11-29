@@ -20,8 +20,12 @@ If you follow, these principles you can improve the reliability of your code by 
 
 The SOLID principles are:
 
-The Single-Responsibility Principle (SRP)
-The Open-Closed Principle (OCP)
-The Liskov Substitution Principle (LSP)
-The Interface Segregation Principle (ISP)
-The Dependency inversion Principle (DIP)
+-----The Single-Responsibility Principle (SRP)
+
+-----The Open-Closed Principle (OCP)
+
+-----The Liskov Substitution Principle (LSP)
+
+-----The Interface Segregation Principle (ISP)
+
+------The Dependency inversion Principle (DIP)
