@@ -12,24 +12,16 @@ Enjoy!
 - ### Gifftybabe
 ![alt text](https://github.com/Gifftybabe/alx-higher_level_programming/blob/master/gettyimages-157479804-2048x2048.jpg?raw=true)
 
-## The Zen of Python, by Tim Peters
+## SOLID Coding in Python
 
-- Beautiful is better than ugly.
-- Explicit is better than implicit.
-- Simple is better than complex.
-- Complex is better than complicated.
-- Flat is better than nested.
-- Sparse is better than dense.
-- Readability counts.
-- Special cases aren't special enough to break the rules.
-- Although practicality beats purity.
-- Errors should never pass silently.
-- Unless explicitly silenced.
-- In the face of ambiguity, refuse the temptation to guess.
-- There should be one-- and preferably only one --obvious way to do it.
-- Although that way may not be obvious at first unless you're Dutch.
-- Now is better than never.
-- Although never is often better than *right* now.
-- If the implementation is hard to explain, it's a bad idea.
-- If the implementation is easy to explain, it may be a good idea.
-- Namespaces are one honking great idea -- let's do more of those!
+The principle of SOLID coding is an acronym originated by Robert C. Martin, and it stands for five different conventions of coding.
+
+If you follow, these principles you can improve the reliability of your code by working on its structure and its logical consistency.
+
+The SOLID principles are:
+
+The Single-Responsibility Principle (SRP)
+The Open-Closed Principle (OCP)
+The Liskov Substitution Principle (LSP)
+The Interface Segregation Principle (ISP)
+The Dependency inversion Principle (DIP)
