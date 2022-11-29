@@ -9,7 +9,7 @@ Like C, Python also has a linter / style guide like Betty, called PEP8, also now
 Enjoy!
 
 - Guillaume
-- ### Gifftybabe
+
 ![alt text](https://github.com/Gifftybabe/alx-higher_level_programming/blob/master/gettyimages-157479804-2048x2048.jpg?raw=true)
 
 ## SOLID Coding in Python
