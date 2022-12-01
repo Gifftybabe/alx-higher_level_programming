@@ -8,5 +8,5 @@
 - How to prevent code in your script from being executed when imported
 - How to use command line arguments with your Python programs
 ### No days off, We keeep grinding :pray:
-![memecat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg_HT02SAKbxQx3xqohX3HDB6PRkKqAFQ7QfJdbPL7T4GXFpzsMTHmlhHTCEIBY1I02AU&usqp=CAU)
+![memecat](https://i.pinimg.com/564x/34/5a/ee/345aeee714fc811016fab1c1b5edfdf5.jpg)
 
