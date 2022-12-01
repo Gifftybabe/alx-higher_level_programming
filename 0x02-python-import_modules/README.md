@@ -7,5 +7,5 @@
 - How to use the built-in function dir()
 - How to prevent code in your script from being executed when imported
 - How to use command line arguments with your Python programs
-### No days off, We keeep grinding :pray:
+### Fix the cause, not the symptom 😜:
 ![image](https://user-images.githubusercontent.com/105078661/205171826-426a5237-281a-4444-9dc5-c28dec31b2fa.png)
