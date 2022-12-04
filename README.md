@@ -9,7 +9,7 @@ Like C, Python also has a linter / style guide like Betty, called PEP8, also now
 
 - Guillaume
 
-![image](https://user-images.githubusercontent.com/105078661/205486655-e7667c52-65ed-4e35-ac41-d554c5ab4f44.png)
+![image](https://user-images.githubusercontent.com/105078661/205486980-a0f4537e-2b21-483e-bdc4-1760b52d2c66.png)
 ## The Zen of Python, by Tim Peters
 
 - Beautiful is better than ugly.
