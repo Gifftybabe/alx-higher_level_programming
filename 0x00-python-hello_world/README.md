@@ -13,8 +13,6 @@ Where: String: This string will be “Hello world”
 
 Implementation:
 
-
-# python program to print "Hello World"
 print("Hello World")
 
 Output:
