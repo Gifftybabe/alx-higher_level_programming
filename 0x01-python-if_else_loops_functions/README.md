@@ -1,6 +1,7 @@
 ## This Directory was Based on
 # LOOPS(if, Else, Elif) with some touch of C (linked list) 
 
+![image](https://user-images.githubusercontent.com/105078661/205486850-d87c5d9b-596d-466a-8570-b40e9dad5cd6.png)
 
 
 ## Learning Objectives
@@ -22,4 +23,4 @@
 - What’s a traceback
 - What are the arithmetic operators and how to use them
 
-![alx](https://i.redd.it/o114bghz4pa31.jpg)
+![image](https://user-images.githubusercontent.com/105078661/205486896-d29282e0-f514-46ac-aac3-072203f9ca86.png)
