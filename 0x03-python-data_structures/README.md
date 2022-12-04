@@ -1,13 +1,6 @@
-![](https://files.realpython.com/media/Introduction-to-C-for-Python-Programmers_Watermarked.94e5e6d8e7cb.jpg)
+![](![image](https://user-images.githubusercontent.com/105078661/205480312-49b85557-700b-4fd0-8a12-fd621d0a46ce.png))
 # Python Data Structures
 
-![data](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiy-oF_UHY1kVZnhB1Hv6MuNzkbgyIZa64SA&usqp=CAU)
----------------------------------------------------------------
----------------------------------------------------------------
-# Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-## General
 - Why Python programming is awesome
 - What are lists and how to use them
 - What are the differences and similarities between strings and lists
@@ -20,3 +13,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is tuple packing
 - What is sequence unpacking
 - What is the del statement and how to use it
+
+![data](![image](https://user-images.githubusercontent.com/105078661/205480011-60cc0b62-48e7-4ad0-a74f-38af7719886b.png))
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
