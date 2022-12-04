@@ -1,4 +1,4 @@
-# Python
+
 ## Welcome to the Python world!
 In this article, we will look into How to print “Hello World” in Python.
 
@@ -17,7 +17,7 @@ Implementation:
 # python program to print "Hello World"
 print("Hello World")
 
-# Output:
+Output:
 
 Hello World
 
@@ -35,13 +35,11 @@ import sys
   
 sys.stdout.write("Hello World")
 
-# Output:
+Output:
 
 Hello World
 
-## Enjoy!
 
-- Guillaume
 
 ![image](https://user-images.githubusercontent.com/105078661/205486245-55cc90f7-4244-485f-9768-99e172312af8.png)
 
