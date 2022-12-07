@@ -1,31 +1,33 @@
 # Python
-Welcome to the Python world!
-
+## Welcome to the Python world!
 The first projects are more "C-oriented" - no tricks, no funky syntax - simple!
 If you've already played with Python, don't worry, fun things will come.
 You'll soon find that with Python (and the majority of higher level languages), there are ten different ways to do the same thing. Some tasks will expect only one implementation, while other tasks will have multiple possible implementations.
 Like C, Python also has a linter / style guide like Betty, called PEP8, also now known as PyCode.
 
-Enjoy!
+## Enjoy!
 
 - Guillaume
 
-![alt text](https://github.com/Gifftybabe/alx-higher_level_programming/blob/master/gettyimages-157479804-2048x2048.jpg?raw=true)
+![image](https://user-images.githubusercontent.com/105078661/205486980-a0f4537e-2b21-483e-bdc4-1760b52d2c66.png)
+## The Zen of Python, by Tim Peters
 
-## SOLID Coding in Python
-
-The principle of SOLID coding is an acronym originated by Robert C. Martin, and it stands for five different conventions of coding.
-
-If you follow, these principles you can improve the reliability of your code by working on its structure and its logical consistency.
-
-The SOLID principles are:
-
------The Single-Responsibility Principle (SRP)
-
------The Open-Closed Principle (OCP)
-
------The Liskov Substitution Principle (LSP)
-
------The Interface Segregation Principle (ISP)
-
-------The Dependency inversion Principle (DIP)
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Flat is better than nested.
+- Sparse is better than dense.
+- Readability counts.
+- Special cases aren't special enough to break the rules.
+- Although practicality beats purity.
+- Errors should never pass silently.
+- Unless explicitly silenced.
+- In the face of ambiguity, refuse the temptation to guess.
+- There should be one-- and preferably only one --obvious way to do it.
+- Although that way may not be obvious at first unless you're Dutch.
+- Now is better than never.
+- Although never is often better than *right* now.
+- If the implementation is hard to explain, it's a bad idea.
+- If the implementation is easy to explain, it may be a good idea.
+- Namespaces are one honking great idea -- let's do more of those!
