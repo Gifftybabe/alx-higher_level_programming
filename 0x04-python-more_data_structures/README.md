@@ -2,12 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/105078661/206304785-172303e3-84c4-4437-8c5f-8614c71cc4ef.png)
 
-![image](https://user-images.githubusercontent.com/105078661/206304262-882dde57-5560-4ab0-a14a-74dc23667c11.png)
+Data Structures are a way of organizing data so that it can be accessed more efficiently depending upon the situation. Data Structures are fundamentals of any programming language around which a program is built. Python helps to learn the fundamental of these data structures in a simpler way as compared to other programming languages.
 
-# Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-## General
+## General Objective
 - Why Python programming is awesome
 - What are sets and how to use them
 - What are the most common methods of set and how to use them
@@ -21,5 +19,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What are the map, reduce and filter functions
 
 
-![image](https://user-images.githubusercontent.com/105078661/206304671-487bce4b-4ef9-4152-b129-42946c0f243c.png)
 
+
+![image](https://user-images.githubusercontent.com/105078661/206307258-c09d33c3-e7e7-49a5-99de-c1e9ef642f94.png)
