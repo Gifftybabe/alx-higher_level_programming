@@ -1,16 +1,19 @@
 # Python - Classes and Objects(OOP)
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/247/oop-meme.jpg)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6jWSEStnU-_FprH8J-yo-um9jfN7A8PlNA&usqp=CAU)
+![image](https://user-images.githubusercontent.com/105078661/208781985-d4797b3c-a822-4147-a5c1-df58ea432676.png)
 # Background Context
-OOP is a totally new concept for all of you (especially those who think they know about it :)). It’s VERY important that you read at least all the material that is listed bellow (and skip what we recommend you to skip, you will see them later in the curriculum).
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
 
-As usual, make sure you type (never copy and paste), test, understand all examples shown in the following links (including those in the video), test again etc. The biggest and most important takeaway of this project is: experiment by yourself OOP, play with it!
+The structure, or building blocks, of object-oriented programming include the following:
+
+* Classes are user-defined data types that act as the blueprint for individual objects, attributes and methods.
+* Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity. When class is defined initially, the description is the only object that is defined.
+* Methods are functions that are defined inside a class that describe the behaviors of an object. Each method contained in class definitions starts with a reference to an instance object. Additionally, the subroutines contained in an object are called instance methods. Programmers use methods for reusability or keeping functionality encapsulated inside one object at a time.
+* Attributes are defined in the class template and represent the state of an object. Objects will have data stored in the attributes field. Class attributes belong to the class itself.
 
 
-# Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-## General
+## General Objectives
 - Why Python programming is awesome
 - What is OOP
 - “first-class everything”
