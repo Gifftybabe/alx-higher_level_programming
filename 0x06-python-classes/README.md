@@ -1,6 +1,8 @@
 # Python - Classes and Objects(OOP)
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/247/oop-meme.jpg)
+![image](https://user-images.githubusercontent.com/105078661/208783342-57495db5-6a49-4315-9b1e-63b76d4871b0.png)
+
 ![image](https://user-images.githubusercontent.com/105078661/208781985-d4797b3c-a822-4147-a5c1-df58ea432676.png)
+
 # Background Context
 Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
 
