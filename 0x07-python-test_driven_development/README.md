@@ -1,6 +1,6 @@
 # Python - Test-driven development
 
-[![image](https://user-images.githubusercontent.com/105078661/210112684-69c7e407-845d-4990-8de4-6a9e27667da2.png)](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
+(https://user-images.githubusercontent.com/105078661/210112684-69c7e407-845d-4990-8de4-6a9e27667da2.png)](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 Test Driven Development (TDD) is a great approach for software development. TDD is nothing but the development of tests before adding a feature in code. This approach is based on the principle that we should write small codes rather than writing long codes
 
