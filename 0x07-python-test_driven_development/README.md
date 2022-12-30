@@ -1,21 +1,21 @@
 # Python - Test-driven development
 
-![image](https://user-images.githubusercontent.com/105078661/210113191-8d7b6225-470f-439c-bdc6-74eb7ad7f5db.png)
+![image](https://user-images.githubusercontent.com/105078661/210113531-742503c5-749f-4d55-97ad-e9f95124909d.png)
 
 Test Driven Development (TDD) is a great approach for software development. TDD is nothing but the development of tests before adding a feature in code. This approach is based on the principle that we should write small codes rather than writing long codes
 
 ## Test Driven Development (TDD) Approach
 As the name suggests, we should first add the test before adding the functionality in our code. Now our target is to make the test pass by adding new code to our program. So we refactor our code to pass the written test. This uses the following process -
--- Write a failing unit test
--- Make the unit test pass
--- Repeat
+* Write a failing unit test
+* Make the unit test pass
+* Repeat
 
 ## Test Driven Development Process Cycle
--- First, add tests for the functionality.
--- Next, we run our test to fail.
--- Next, we write code according to the error we received.
--- Then we run the tests again to see if the test fails or passes.
--- Then refactor the code and follow the process again.
+* First, add tests for the functionality.
+* Next, we run our test to fail.
+* Next, we write code according to the error we received.
+* Then we run the tests again to see if the test fails or passes.
+* Then refactor the code and follow the process again.
 
 ## General Objective
 - Why Python programming is awesome
