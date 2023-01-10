@@ -31,5 +31,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is the purpose of inheritance
 - What are, when and how to use isinstance, issubclass, type and super built-in functions
 
-![image](https://user-images.githubusercontent.com/105078661/211452807-c87f4aec-4852-429f-bad3-0c74c8798a7e.png)
+![image](https://user-images.githubusercontent.com/105078661/211453560-2634a8fc-b2a7-453c-bfb7-29731d8f5598.png) ![image](https://user-images.githubusercontent.com/105078661/211453672-80016ee6-20a6-4085-a183-f80fcdcf6374.png)
+
 
