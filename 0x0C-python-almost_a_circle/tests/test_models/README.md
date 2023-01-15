@@ -1,0 +1,1 @@
+Model-based testing is an application of model-based design for designing and optionally also executing artifacts to perform software testing or system testing. Models can be used to represent the desired behavior of a system under test (SUT), or to represent testing strategies and a test environment. The picture on the right depicts the former approach.
