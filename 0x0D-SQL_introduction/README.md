@@ -1,5 +1,5 @@
-# MySql
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
+# 
+![image](https://user-images.githubusercontent.com/105078661/218877144-195fdb47-b596-4dfc-a468-28587d23ccb3.png)
 
 ## Learning Objectives
 ### At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -17,4 +17,4 @@
 - What are subqueries
 - How to use MySQL functions
 
-![](https://www.learncomputerscienceonline.com/wp-content/uploads/2019/08/MySQL-Relational-Database-Management-System.jpg)
+![image](https://user-images.githubusercontent.com/105078661/218877363-141775ac-7b8a-479c-b318-bc0d69078154.png)
