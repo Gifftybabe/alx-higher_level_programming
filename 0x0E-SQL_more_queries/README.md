@@ -1,20 +1,45 @@
 # More Queries
 
 
-![](https://miro.medium.com/max/768/1*94n7Yjm2xml9dVFbTph0hA.jpeg)
+![image](https://user-images.githubusercontent.com/105078661/219197011-52f7460e-0f2a-4e0a-a094-f3f6f84f3ae9.png)
 
-## Links for futher reading :microscope:
+## Use “container-on-demand” to run MySQL:
 
-- [SQL-Commands-Cheat-Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf)
+- In the container, credentials are root/root
 
+  - Ask for container Ubuntu 20.04
+  - Connect via SSH
+  - OR connect via the Web terminal
+  - In the container, you should start MySQL before playing with it:
+  
+ $ service mysql start                                                   
+ * Starting MySQL database server mysqld 
+$
+$ cat 0-list_databases.sql | mysql -uroot -p                               
+Database                                                                                   
+information_schema                                                                         
+mysql                                                                                      
+performance_schema                                                                         
+sys                      
+$
 
-- [SQL technique: subqueries](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php)
+## How to import a SQL dump:
 
+$ echo "CREATE DATABASE hbtn_0d_tvshows;" | mysql -uroot -p
+Enter password: 
+$ curl "https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql" -s | mysql -uroot -p hbtn_0d_tvshows
+Enter password: 
+$ echo "SELECT * FROM tv_genres" | mysql -uroot -p hbtn_0d_tvshows
+Enter password: 
+id  name
+1   Drama
+2   Mystery
+3   Adventure
+4   Fantasy
+5   Comedy
+6   Crime
+7   Suspense
+8   Thriller
+$
 
-- [MySQL constraints](https://zetcode.com/mysql/constraints/)
-
-
-- [7 types of SQL JOINs](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
-
-
-- [Derek Banas Tutorial :yum:](https://www.youtube.com/watch?v=yPu6qV5byu4)
+![image](https://user-images.githubusercontent.com/105078661/219200048-b92e1876-db35-4334-9302-b9cadcc8dbe2.png)
