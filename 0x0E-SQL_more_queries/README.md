@@ -42,4 +42,4 @@ id  name
 8   Thriller
 $
 
-![image](https://user-images.githubusercontent.com/105078661/219200048-b92e1876-db35-4334-9302-b9cadcc8dbe2.png)
+![image](https://user-images.githubusercontent.com/105078661/219213698-5c799dad-e084-496d-8997-e9961900bf0a.png)
