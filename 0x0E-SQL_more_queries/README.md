@@ -1,7 +1,7 @@
 # More Queries
 
 
-![image](https://user-images.githubusercontent.com/105078661/219197011-52f7460e-0f2a-4e0a-a094-f3f6f84f3ae9.png)
+![image](https://user-images.githubusercontent.com/105078661/219212034-ed56294c-45e5-4c0d-b530-e38ce0bc58a1.png)
 
 ## Use “container-on-demand” to run MySQL:
 
