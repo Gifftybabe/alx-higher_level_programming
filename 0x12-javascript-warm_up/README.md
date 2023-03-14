@@ -4,7 +4,14 @@
 ## Description
 The aim of this project is to get started with Javascript, learn all the syntax and its different uses.
 
-![](https://devs.lol/uploads/2022/06/meme-dev-humor-you-cant-learn-javascript-in-30-days-295.jpg)
+JavaScript is used for many things. Here, we will use JavaScript for 2 reasons:
+
+  - Scripting (same as we did with Python)
+  - Web front-end
+For the moment, and for learning all basic concepts of this language, we will do some scripting. 
+
+
+![image](https://user-images.githubusercontent.com/105078661/224879303-21a10f67-f072-4e1a-a4ed-870e2ddf4220.png)
 
 ## Table of contents
 Files | Description
