@@ -1,23 +1,18 @@
+## Python - Network
+
 Python provides two levels of access to network programming. These are – 
 
 Low-Level Access: At the low level, you can access the basic socket support of the operating system. You can implement client and server for both connection-oriented and connectionless protocols.
 High-Level Access: At the high level allows to implement protocols like HTTP, FTP, etc.
 
 
----
-Term |	Description
----
-Domain |	The set of protocols used for transport mechanisms like AF_INET, PF_INET, etc.
----
-Type |	Type of communication between sockets
----
-Protocol |	Identifies the type of protocol used within domain and type. Typically it is zero
----
-Port |	The server listens for clients calling on one or more ports. it can be a string containing a port number, a name of the service, or a Fixnum port
----
-Hostname |	Identifies a network interface. It can be a 
----
 
+Term |	Description
+Domain |	The set of protocols used for transport mechanisms like AF_INET, PF_INET, etc.
+Type |	Type of communication between sockets
+Protocol |	Identifies the type of protocol used within domain and type. Typically it is zero
+Port |	The server listens for clients calling on one or more ports. it can be a string containing a port number, a name of the service, or a Fixnum port
+Hostname |	Identifies a network interface. It can be 
             - a string containing hostname, IPv6 address, or a double-quad address.
             - an integer
             - a zero-length string
